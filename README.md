@@ -1,2 +1,5 @@
-# michaelrbock.github.io
-Personal site
+# Michael R. Bock
+
+You can find me online:
+
+* [Twitter](https://twitter.com/michaelrbock)
