@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 github: [metadata]
 
+google_analytics: UA-36685415-1
+
 title: Michael R. Bock
 twitter_url: https://twitter.com/michaelrbock
 medium_url: https://medium.com/@michaelrbock
