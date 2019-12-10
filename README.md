@@ -12,5 +12,6 @@ Looking to get into software engineering? Here are some resources I highly recom
 
 * [interviewing.io](https://iio.sh/r/HpHf)
 * [Triplebyte](https://triplebyte.com/iv/MOiyVhC/cp/header)
+* [A-List](https://alist.co/candidates/refer/5207)
 * [Pramp](https://www.pramp.com/invt/YanMVOzEBgHzPJY4JKNZ)
 * [Bradfield School of CS](https://bradfieldcs.com)
