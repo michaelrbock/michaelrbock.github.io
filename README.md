@@ -45,6 +45,7 @@ recommend:
   for folks laid off because of Covid-19
 * [interviewing.io](https://iio.sh/r/HpHf)
 * [Triplebyte](https://triplebyte.com/iv/MOiyVhC/cp/header)
+* [A-List](https://alist.co/candidates/refer/5207)
 * [Pramp](https://www.pramp.com/invt/YanMVOzEBgHzPJY4JKNZ)
 * [Bradfield School of Computer Science](https://bradfieldcs.com)
 
