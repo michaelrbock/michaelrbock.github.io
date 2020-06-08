@@ -35,7 +35,7 @@ Some projects I'm working on (actively or previously):
 * [InnerTube](https://gizmodo.com/how-project-innertube-helped-pull-youtube-out-of-the-gu-1704946491),
   YouTube's first-party API for iOS/Android/Web/TV.
 * Udacity's first public API
-  ([ancient documentation]((https://s3.amazonaws.com/content.udacity-data.com/techdocs/UdacityCourseCatalogAPIDocumentation-v0.pdf))).
+  ([ancient documentation](https://s3.amazonaws.com/content.udacity-data.com/techdocs/UdacityCourseCatalogAPIDocumentation-v0.pdf)).
 * The [Edmunds.com API](https://github.com/EdmundsAPI) and associated wrappers.
 
 Looking to improve as a software engineer? Here are some resources I highly
