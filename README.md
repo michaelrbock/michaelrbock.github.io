@@ -9,10 +9,10 @@ I read and respond to every personal message I get. To get in touch, [DM me on T
 
 Work history:
 
-* Pioneer, 2019
-* Waymo, 2017-2019
+* [Pioneer](https://pioneer.app/), 2019
+* [Waymo](https://waymo.com/), 2017-2019
 * Google/YouTube, 2015-2017
-* Udacity, 2014-2015
+* [Udacity](https://www.udacity.com/), 2014-2015
 
 Some projects I'm working on (actively or previously):
 
@@ -34,18 +34,18 @@ Some projects I'm working on (actively or previously):
 * [InnerTube](https://gizmodo.com/how-project-innertube-helped-pull-youtube-out-of-the-gu-1704946491):
   YouTube's first-party API for iOS/Android/Web/TV.
 * Udacity's first public API
-  ([ancient documentation](https://s3.amazonaws.com/content.udacity-data.com/techdocs/UdacityCourseCatalogAPIDocumentation-v0.pdf)).
+  (here's some [ancient documentation](https://s3.amazonaws.com/content.udacity-data.com/techdocs/UdacityCourseCatalogAPIDocumentation-v0.pdf) I wrote).
 * The [Edmunds.com API](https://github.com/EdmundsAPI) and associated wrappers.
 
 Looking to improve as a software engineer? Here are some resources I highly
 recommend:
 
 * [Interview practice](https://twitter.com/michaelrbock/status/1258061396559839232)
-  for folks laid off because of Covid-19
+  I'm offering to folks laid off because of Covid-19
 * [interviewing.io](https://iio.sh/r/HpHf)
+* [Pramp](https://www.pramp.com/invt/YanMVOzEBgHzPJY4JKNZ)
 * [Triplebyte](https://triplebyte.com/iv/MOiyVhC/cp/header)
 * [A-List](https://alist.co/candidates/refer/5207)
-* [Pramp](https://www.pramp.com/invt/YanMVOzEBgHzPJY4JKNZ)
 * [Bradfield School of Computer Science](https://bradfieldcs.com)
 
 ![headshot](shot.jpg)
