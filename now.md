@@ -4,7 +4,7 @@ layout: default
 
 # What I'm doing now
 
-This is [/now](https://nownownow.com/about) page.
+This is a [/now](https://nownownow.com/about) page.
 
 I'm working on a few projects in the productivity software space:
 
