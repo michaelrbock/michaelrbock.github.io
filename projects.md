@@ -10,7 +10,9 @@ layout: default
   an app to reclaim the time we spend on social media and ensure that time
   actually aligns with our long-term goals.
 * [SelfDriving.fyi](http://selfdriving.fyi):
-  a comprehensive list of every company working on autonomous vehicles.
+  a comprehensive list of every company working on autonomous vehicles. You can listen to me
+  talk about this project on
+  [this podcast](https://podcast.matsherman.com/332-michel-bock-selfdrivingfyi-on-all-things-self-driving-cars/).
 * [Detailed notes](https://github.com/michaelrbock/notes/tree/master/books/designing-data-intensive-applications)
   on the book [Designing Data-Intensive Applications](https://dataintensive.net/)
   and an associated [Anki deck](https://ankiweb.net/shared/info/648324831).
