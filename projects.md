@@ -34,5 +34,7 @@ Some projects that are even older:
 * [Surge Pricing as a Service](https://devpost.com/software/surge-pricing-as-a-service): a project at YC Hacks 2014 to bring surge pricing to industries beyond ride hailing.
 * [College Price Index](https://devpost.com/software/college-price-index): a hackathon project at MHacks V to calculate a "consumer price index" for college students using real Venmo data.
 * [ReviewWithUs](https://devpost.com/software/reviewwith-us): a hackathon project that won "Best Hack That Makes Students' Lives Better" at PennApps Fall 2013.
+* [TextYak](https://github.com/michaelrbock/textyak): a take on the college fad app YikYak where you could only post via SMS.
+* [Verilog Minesweeper AI](https://github.com/michaelrbock/verilog-minesweeper-solver): an AI written entirely in the Verilog HDL that could solve ~80% of minesweeper boards.
 
 [<< back](/)
