@@ -27,4 +27,12 @@ layout: default
   (here's some [ancient documentation](https://s3.amazonaws.com/content.udacity-data.com/techdocs/UdacityCourseCatalogAPIDocumentation-v0.pdf) I wrote).
 * The [Edmunds.com API](https://github.com/EdmundsAPI) and associated wrappers.
 
+## Retired
+
+Some projects that are even older:
+
+* [Surge Pricing as a Service](https://devpost.com/software/surge-pricing-as-a-service): a project at YC Hacks 2014 to bring surge pricing to industries beyond ride hailing.
+* [College Price Index](https://devpost.com/software/college-price-index): a hackathon project at MHacks V to calculate a "consumer price index" for college students using real Venmo data.
+* [ReviewWithUs](https://devpost.com/software/reviewwith-us): a hackathon project that won "Best Hack That Makes Students' Lives Better" at PennApps Fall 2013.
+
 [<< back](/)
