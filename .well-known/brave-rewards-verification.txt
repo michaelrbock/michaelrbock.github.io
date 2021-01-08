@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: michaelrbock.com
+Token: 8c508610ca6f4a121b125ddafe3f89459844aa0a835dadec76efb0c75fd171d9
