@@ -5,10 +5,11 @@ My name is Michael R. Bock. I'm a software engineer living ~~in California~~ and
 I'm generally interested in technology, politics, autonomous vehicles,
 micromobility, and productivity software.
 
-I read and respond to every personal message I get. To get in touch, [DM me on Twitter](https://twitter.com/michaelrbock) or email me: mykel.bock@gmail.com.
+I read and respond to every personal message I get. To get in touch, [DM me on Twitter](https://twitter.com/michaelrbock).
 
 Work history:
 
+* ~~Uber ATG~~[Aurora](https://aurora.tech/blog/aurora-is-acquiring-ubers-self-driving-unit-advanced), 2019-2021
 * [Pioneer](https://pioneer.app/), 2019
 * [Waymo](https://waymo.com/), 2017-2019
 * Google/YouTube, 2015-2017
@@ -16,6 +17,7 @@ Work history:
 
 Some projects I'm working on (actively or previously):
 
+* [ReclaimIQ](https://reclaimiq.com): a service that makes it _much_ easier to reclaim Unclaimed Property that's been handed over to the government (_over $55 billion_ in the US)!
 * [TopTweets.by](https://toptweets.by/): go to TopTweets.by/@username to easily see someone’s popular tweets.
 * [Sesh](http://getsesh.io):
   a way for engineers and designers to train more like athletes.
