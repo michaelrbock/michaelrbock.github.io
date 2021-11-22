@@ -1,21 +1,21 @@
 # Hi there.
 
-My name is Michael R. Bock. I'm a software engineer living ~~in California~~ and working remotely.
+My name is Michael R. Bock. I'm a software engineer living and working in California.
 
-I'm generally interested in technology, politics, autonomous vehicles,
-micromobility, and productivity software.
+I'm generally interested in technology, software architecture, scaling software organizations, startups, politics, autonomous vehicles and cities.
 
 I read and respond to every personal message I get. To get in touch, [DM me on Twitter](https://twitter.com/michaelrbock).
 
 Work history:
 
+* [Column Tax](https://www.columntax.com/), 2021-
 * ~~Uber ATG~~[Aurora](https://aurora.tech/blog/aurora-is-acquiring-ubers-self-driving-unit-advanced), 2019-2021
 * [Pioneer](https://pioneer.app/), 2019
 * [Waymo](https://waymo.com/), 2017-2019
 * Google/YouTube, 2015-2017
 * [Udacity](https://www.udacity.com/), 2014-2015
 
-Some projects I'm working on (actively or previously):
+Some projects I've worked on:
 
 * [ReclaimIQ](https://reclaimiq.com): a service that makes it _much_ easier to reclaim Unclaimed Property that's been handed over to the government (_over $55 billion_ in the US)!
 * [TopTweets.by](https://toptweets.by/): go to TopTweets.by/@username to easily see someone’s popular tweets.
@@ -45,8 +45,6 @@ Some projects I'm working on (actively or previously):
 Looking to improve as a software engineer? Here are some resources I highly
 recommend:
 
-* [Interview practice](https://twitter.com/michaelrbock/status/1258061396559839232)
-  I'm offering to folks laid off because of Covid-19
 * [interviewing.io](https://iio.sh/r/HpHf)
 * [Pramp](https://www.pramp.com/invt/YanMVOzEBgHzPJY4JKNZ)
 * [Triplebyte](https://triplebyte.com/iv/MOiyVhC/cp/header)

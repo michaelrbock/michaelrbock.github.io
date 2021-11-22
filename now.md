@@ -6,9 +6,18 @@ layout: default
 
 This is a [/now](https://nownownow.com/about) page.
 
-I'm working on a new startup as part of the [South Park Commons Founder Fellowship](https://medium.com/south-park-commons/announcing-the-spc-founder-fellowship-88e8f4c2ba9c).
+I'm the Co-founder & CTO of [Column Tax](https://www.columntax.com/), a company
+powering the future of personal income tax software via API. We're hiring a lot,
+if you're interested in working on some gnarly software architecture problems,
+get in touch: DM or email me.
 
-Last updated: Mar 28, 2021.
+Last updated: Nov 21, 2021.
+
+---
+
+Previous update, Mar 28, 2021:
+
+I'm working on a new startup as part of the [South Park Commons Founder Fellowship](https://medium.com/south-park-commons/announcing-the-spc-founder-fellowship-88e8f4c2ba9c).
 
 ---
 
