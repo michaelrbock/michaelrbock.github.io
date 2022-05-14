@@ -30,6 +30,6 @@ I'm working on a few projects, mostly in the productivity software space:
   actually aligns with our long-term goals.
 * A [yet-unannounced project](https://lifedom.io).
 * [SelfDriving.fyi](https://selfdriving.fyi/): a comprehensive list of every company working on autonomous vehicles.
-* I just launched [TopTweets.by](https://toptweets.by/), a site quickly find a user's most popular tweets.
+* I just launched [TopTweets.by](https://toptweets.by/), a site to quickly find a user's most popular tweets.
 
 [<< back](/)
