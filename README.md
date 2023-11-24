@@ -15,7 +15,7 @@ Work history:
 * Google/YouTube, 2015-2017
 * [Udacity](https://www.udacity.com/), 2014-2015
 
-Some projects I've worked on:
+Some [projects](./projects.md) I've worked on:
 
 * [ReclaimIQ](https://reclaimiq.com): a service that makes it _much_ easier to reclaim Unclaimed Property that's been handed over to the government (_over $55 billion_ in the US)!
 * [TopTweets.by](https://toptweets.by/): go to TopTweets.by/@username to easily see someone’s popular tweets.
