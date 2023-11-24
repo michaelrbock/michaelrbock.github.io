@@ -6,12 +6,25 @@ layout: default
 
 This is a [/now](https://nownownow.com/about) page.
 
-I'm the Co-founder & CTO of [Column Tax](https://www.columntax.com/), a company
-powering the future of personal income tax software via API. We're hiring a lot,
-if you're interested in working on some gnarly software architecture problems,
-get in touch: DM or email me.
+I'm the co-founder & CTO of [Column Tax](https://www.columntax.com/). We're
+working on making the tax system in this country fundamentally more-fair. And
+we're solving some incredibly complex software problems to get there. So far,
+things are working: we have a real shot at changing this industry that hasn't 
+changed in quite a long time and building a massive business while we do it. If
+you're interested in working with a group of incredibly-smart humans on
+interesting problems, we're [hiring](https://jobs.columntax.com/). Get in touch:
+DM or email me.
 
-Last updated: Nov 21, 2021.
+Last updated: Nov 23, 2023.
+
+---
+
+Previous update: Nov 21, 2021:
+
+I'm the co-founder & CTO of [Column Tax](https://www.columntax.com/), a company
+powering the future of personal income tax software via API. We're hiring a lot.
+If you're interested in working on some gnarly software architecture problems,
+get in touch: DM or email me.
 
 ---
 
