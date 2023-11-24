@@ -1,4 +1,4 @@
-# Hi there.
+# Hi there 👋
 
 My name is Michael R. Bock. I'm a software engineer living and working in California.
 
