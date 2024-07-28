@@ -47,8 +47,8 @@ recommend:
 
 * [interviewing.io](https://iio.sh/r/HpHf)
 * [Pramp](https://www.pramp.com/invt/YanMVOzEBgHzPJY4JKNZ)
-* [Triplebyte](https://triplebyte.com/iv/MOiyVhC/cp/header)
-* [A-List](https://alist.co/candidates/refer/5207)
-* [Bradfield School of Computer Science](https://bradfieldcs.com)
+* ~~[Triplebyte](https://triplebyte.com/iv/MOiyVhC/cp/header)~~ (RIP)
+* [~~A-List~~ Wellfound](https://alist.co/candidates/refer/5207)
+* ~~[Bradfield School of Computer Science](https://bradfieldcs.com)~~ [CS Primer](https://csprimer.com/)
 
 <form action="https://tinyletter.com/michaelrbock" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/michaelrbock', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Want to get notified (extremely rarely) when I release a new project or blog post? Enter your email address:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
