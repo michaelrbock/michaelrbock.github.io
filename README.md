@@ -2,7 +2,7 @@
 
 My name is Michael R. Bock. I'm a software engineer living and working in California.
 
-I'm generally interested in technology, software architecture, scaling software organizations, startups, politics, autonomous vehicles and cities.
+I'm generally interested in technology, software architecture, scaling software organizations, startups, politics, autonomous vehicles, and cities.
 
 I read and respond to every personal message I get. To get in touch, [DM me on Twitter](https://twitter.com/michaelrbock).
 
