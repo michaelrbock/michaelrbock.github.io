@@ -4,7 +4,7 @@ My name is Michael R. Bock. I'm a software engineer living and working in Califo
 
 I'm generally interested in technology, software architecture, scaling software organizations, startups, politics, autonomous vehicles, and cities.
 
-I'm the co-founder & CTO of Column Tax. We're working on making the tax system in this country fundamentally more-fair. And we're solving some incredibly complex software problems to get there. So far, things are working: we have a real shot at changing this industry that hasn't changed in quite a long time and building a massive business while we do it. If you're interested in working with a group of incredibly-smart humans on interesting problems, we're [hiring](https://jobs.columntax.com/).
+I'm the co-founder & CTO of [Column Tax](https://time.com/7094552/column-tax/). We're working on making the tax system in this country fundamentally more-fair. And we're solving some incredibly complex software problems to get there. So far, things are working: we have a real shot at changing this industry that hasn't changed in quite a long time and building a massive business while we do it. If you're interested in working with a group of incredibly-smart humans on interesting problems, we're [hiring](https://jobs.columntax.com/).
 
 I read and respond to every personal message I get. To get in touch, [DM me on Twitter](https://twitter.com/michaelrbock).
 
