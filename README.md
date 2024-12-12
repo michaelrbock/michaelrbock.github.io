@@ -44,6 +44,13 @@ Some [projects](./projects.md) I've worked on:
   (here's some [ancient documentation](https://s3.amazonaws.com/content.udacity-data.com/techdocs/UdacityCourseCatalogAPIDocumentation-v0.pdf) I wrote).
 * The [Edmunds.com API](https://github.com/EdmundsAPI) and associated wrappers.
 
+I also (very) ocassionally angel invest (mostly in friends' companies who I want to support and follow along with). I can sometimes be helpful to other founders in the very early idea maze and with thinking through hiring strategy (especially hiring a first Head of Engineering). So far, I've invested in:
+
+* [interviewing.io](https://iio.sh/r/HpHf)
+* [Pulley](https://www.withpulley.com/)
+* [Agent](https://www.agent.tax/)
+* [Taxwire](https://www.taxwire.com/)
+
 Looking to improve as a software engineer? Here are some resources I highly
 recommend:
 
@@ -52,5 +59,3 @@ recommend:
 * ~~[Triplebyte](https://triplebyte.com/iv/MOiyVhC/cp/header)~~ (RIP)
 * [~~A-List~~ Wellfound](https://alist.co/candidates/refer/5207)
 * ~~[Bradfield School of Computer Science](https://bradfieldcs.com)~~ [CS Primer](https://csprimer.com/)
-
-<form action="https://tinyletter.com/michaelrbock" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/michaelrbock', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Want to get notified (extremely rarely) when I release a new project or blog post? Enter your email address:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
