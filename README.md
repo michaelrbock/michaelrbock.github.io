@@ -19,17 +19,17 @@ Work history:
 
 Some [projects](./projects.md) I've worked on:
 
-* [ReclaimIQ](https://reclaimiq.com): a service that made it _much_ easier to reclaim [Unclaimed Property](https://www.sco.ca.gov/search_upd.html) that's been handed over to the government (_over $55 billion_ in the US)!
+* [SelfDriving.fyi](http://selfdriving.fyi):
+  a comprehensive list of every company working on autonomous vehicles. You can listen to me
+  talk about this project on
+  [this podcast](https://podcast.matsherman.com/332-michel-bock-selfdrivingfyi-on-all-things-self-driving-cars/).
 * [TopTweets.by](https://toptweets.by/): go to TopTweets.by/@username to easily see someone’s popular tweets.
+* [ReclaimIQ](https://reclaimiq.com): a service that made it _much_ easier to reclaim [Unclaimed Property](https://www.sco.ca.gov/search_upd.html) that's been handed over to the government (_over $55 billion_ in the US)!
 * [Sesh](http://getsesh.io):
   a way for engineers and designers to train more like athletes.
 * [Sludge](http://sludge.life):
   an app to reclaim the time we spend on social media and ensure that time
   actually aligns with our long-term goals.
-* [SelfDriving.fyi](http://selfdriving.fyi):
-  a comprehensive list of every company working on autonomous vehicles. You can listen to me
-  talk about this project on
-  [this podcast](https://podcast.matsherman.com/332-michel-bock-selfdrivingfyi-on-all-things-self-driving-cars/).
 * [Detailed notes](https://github.com/michaelrbock/notes/tree/master/books/designing-data-intensive-applications)
   on the book [Designing Data-Intensive Applications](https://dataintensive.net/)
   and an associated [Anki deck](https://ankiweb.net/shared/info/648324831).
