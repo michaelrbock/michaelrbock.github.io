@@ -19,7 +19,7 @@ Work history:
 
 Some [projects](./projects.md) I've worked on:
 
-* [ReclaimIQ](https://reclaimiq.com): a service that makes it _much_ easier to reclaim Unclaimed Property that's been handed over to the government (_over $55 billion_ in the US)!
+* [ReclaimIQ](https://reclaimiq.com): a service that made it _much_ easier to reclaim [Unclaimed Property](https://www.sco.ca.gov/search_upd.html) that's been handed over to the government (_over $55 billion_ in the US)!
 * [TopTweets.by](https://toptweets.by/): go to TopTweets.by/@username to easily see someone’s popular tweets.
 * [Sesh](http://getsesh.io):
   a way for engineers and designers to train more like athletes.
